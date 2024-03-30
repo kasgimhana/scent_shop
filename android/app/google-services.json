@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044714957209",
+    "project_id": "scent-18589",
+    "storage_bucket": "scent-18589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044714957209:android:cb413d8b20a33190958b08",
+        "android_client_info": {
+          "package_name": "com.example.scent_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1zhmyepctH7GHtMBq90Nj013JgihviQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
